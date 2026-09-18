@@ -53,8 +53,9 @@ Python packages are listed in `requirements.txt`. The workflow also uses externa
 
 ## Data availability
 
-The underlying genome assemblies and BioSample records are public NCBI records identified by accession. Raw assemblies are deliberately not duplicated in this Git repository. Large generated intermediate files are reproducible from the notebooks and are excluded by `.gitignore`.
+The underlying genome assemblies and BioSample records are public NCBI records identified by accession. Raw assemblies are deliberately not duplicated in this Git repository. Large generated intermediate files are reproducible from the notebooks and are excluded by .gitignore.
 
+Notebook 01 and part of Notebook 08 additionally require processed inputs from the preceding Genome_MIC_AMR_Emergence analysis, as described under Paths above.
 ## Public-release sanitisation
 
 Notebook outputs/execution history and local Google Drive paths were removed from the public copies. The scientific analysis logic and fixed analysis settings were retained. Final PNG files were re-saved without embedded PNG metadata; their pixel content was not altered.
