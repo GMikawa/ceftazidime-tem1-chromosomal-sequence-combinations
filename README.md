@@ -39,7 +39,7 @@ The public notebooks do not contain personal Google Drive paths. By default they
 export CEFTAZIDIME_PROJECT_ROOT=/path/to/this/repository
 ```
 
-Notebook 01 and part of Notebook 08 reuse processed inputs from the preceding `Genome_MIC_AMR_Emergence` project. Set:
+Notebook 01 and part of Notebook 08 additionally require processed inputs from the preceding [`ceftazidime-chromosomal-background`](https://github.com/GMikawa/ceftazidime-chromosomal-background) analysis, as described under **Paths** above.
 
 ```bash
 export GENOME_MIC_AMR_PROJECT_ROOT=/path/to/Genome_MIC_AMR_Emergence
