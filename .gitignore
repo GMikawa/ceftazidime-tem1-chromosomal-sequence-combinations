@@ -1,0 +1,23 @@
+# Generated analysis outputs
+04_Intermediate/
+05_Results/
+02_Data_New/
+
+# Downloaded genome data and temporary files
+external/
+*.fna
+*.fna.gz
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.npz
+*.npy
+*.pkl
+*.zip
+*.tar.gz
+
+# Notebook/runtime files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
