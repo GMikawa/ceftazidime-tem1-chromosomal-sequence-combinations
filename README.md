@@ -1,4 +1,4 @@
-# Chromosomal sequence combinations associated with substantially elevated ceftazidime MIC in *blaTEM-1*-only *Escherichia coli*
+# Chromosomal Sequence Combinations Associated with Substantially Elevated Ceftazidime MIC in *blaTEM-1*-only *Escherichia coli*
 
 This repository contains the public analysis and figure-generation code supporting the manuscript. The analysis uses 176 *blaTEM-1*-only *E. coli* pathogens with exact ceftazidime MIC measurements and corresponding public NCBI genome assemblies.
 
