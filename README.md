@@ -56,4 +56,4 @@ Python packages are listed in `requirements.txt`. The workflow also uses externa
 The underlying genome assemblies and BioSample records are public NCBI records identified by accession. Raw assemblies are deliberately not duplicated in this Git repository. Large generated intermediate files are reproducible from the notebooks and are excluded by .gitignore.
 
 Notebook 01 and part of Notebook 08 additionally require processed inputs from the preceding ceftazidime-chromosomal-background analysis, as described under Paths above.
-## Public-release sanitisation
+
